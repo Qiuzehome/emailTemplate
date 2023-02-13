@@ -1,0 +1,25 @@
+{
+    "name": "emailtemplate",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Qiuzehome/emailTemplate.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Qiuzehome/emailTemplate/issues"
+    },
+    "homepage": "https://github.com/Qiuzehome/emailTemplate#readme",
+    "dependencies": {
+        "ejs": "^3.1.8",
+        "koa-router": "^12.0.0",
+        "koa2": "^2.0.0-alpha.7"
+    }
+}
